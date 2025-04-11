@@ -911,8 +911,9 @@ background-size: cover;
     right: 0;
     background-color: burlywood;
     opacity: 1;
-    transition: 1s;
+    
     z-index: -1;
+    transition: 1s;
 
 }
 .box-recent:hover:after{
